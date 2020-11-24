@@ -4,4 +4,4 @@
 
 #Made for understanding Javscript better.
 
-#Live preview at: 
+#Live preview at: https://onuruci.github.io/Restaurant-Page/
